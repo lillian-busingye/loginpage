@@ -4,6 +4,9 @@ body {
     align-items: center;
     min-height: 100vh;
     background: rgb(62, 156, 214);
+    background-image: url(/image.jpg);
+    background-size: cover;
+
 }
 
 .wrapper {
@@ -66,11 +69,13 @@ body {
     box-shadow: 0 0 10px black;
     cursor: pointer;
 }
+
 .link {
     text-align: center;
     gap: 50px;
     margin-top: 20px;
 }
+
 .link p a {
     color: aliceblue;
 }
