@@ -4,14 +4,14 @@ body {
     align-items: center;
     min-height: 100vh;
     background: rgb(62, 156, 214);
-    background-image: url(/image.jpg);
+    background-image: url(/image.avif);
     background-size: cover;
 
 }
 
 .wrapper {
     width: 400px;
-    background: rgb(113, 91, 113);
+    background: rgb(43, 25, 43);
     color: azure;
 }
 
