@@ -4,11 +4,14 @@ body {
     align-items: center;
     min-height: 100vh;
     background: rgb(62, 156, 214);
+    background-image: url(/image.avif);
+    background-size: cover;
+
 }
 
 .wrapper {
     width: 400px;
-    background: rgb(219, 52, 222);
+    background: rgb(43, 25, 43);
     color: azure;
 }
 
@@ -66,11 +69,13 @@ body {
     box-shadow: 0 0 10px black;
     cursor: pointer;
 }
+
 .link {
     text-align: center;
     gap: 50px;
     margin-top: 20px;
 }
+
 .link p a {
     color: aliceblue;
 }
